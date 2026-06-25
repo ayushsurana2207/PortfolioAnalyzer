@@ -1,6 +1,6 @@
 # Personal Investment Portfolio AI Agent 📊🤖
 
-A premium, production-grade personal wealth tracking and advisory AI assistant designed for a long term investor The system ingests investment PDFs (Zerodha Kite, Groww, Morgan Stanley, Fidelity), converts all foreign holdings into Indian Rupees (INR) using live market rates, runs AI-powered monthly reviews using **Google Gemini**, **OpenAI**, or **Anthropic Claude**, executes daily local rule-based risk flag checks, and delivers HTML alerts directly to your email.
+A premium, production-grade personal wealth tracking and advisory AI assistant designed for a long term investor. The system ingests investment PDFs (Zerodha Kite, Groww, Morgan Stanley, Fidelity), converts all foreign holdings into Indian Rupees (INR) using live market rates, runs AI-powered monthly reviews using **Google Gemini**, **OpenAI**, or **Anthropic Claude**, executes daily local rule-based risk flag checks, and delivers HTML alerts directly to your email.
 
 ---
 
